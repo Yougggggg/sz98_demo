@@ -5,5 +5,8 @@ public class Test {
       
         
         System.out.println("尝试再次制造冲突");
+        System.out.println("开始冲突");
+        System.out.println("你不是冲突");
+
     }
 }
